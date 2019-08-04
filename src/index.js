@@ -9,6 +9,7 @@ import thunk from "redux-thunk";
 import "./styles/styles.css";
 // import "./styles/WelcomePageStyle.css";
 import "./styles/welcomestyle2.css";
+import "./styles/userStyle.css";
 
 function configureStore() {
   const enhancers = [
